@@ -1,2 +1,3 @@
 # odin-rock-paper-scissors
-TOP Foundations's rock paper scissors project.
+
+Rock Paper Scissor project for TOP's Foundations course
